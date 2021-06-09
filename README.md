@@ -8,7 +8,7 @@ Especially useful for failure analysis.
 * Windows 10 - supported versions
 * .NET Framework 4.7.2+
 
-## Usaage
+## Usage
 Launch executable to open the main window. And then please follow the instructions on the window.
 
 ## Author
